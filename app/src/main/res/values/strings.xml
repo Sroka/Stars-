@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stars!</string>
+    <string name="action_settings">Settings</string>
+    <string name="view_stars_error_text">Oooops, something went wrong :/</string>
+</resources>
